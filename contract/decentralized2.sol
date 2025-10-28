@@ -148,7 +148,9 @@ contract SkillVerify {
     }
     
     /**
-     * @dev Revoke a credential (only by issuer)
+     * @dev R
+
+evoke a credential (only by issuer)
      * @param _credentialId ID of the credential to revoke
      */
     function revokeCredential(uint256 _credentialId) external {
@@ -287,5 +289,6 @@ MIT License - see LICENSE file for details
 ---
 
 **Built with 🔗 by the SkillVerify Team**
+contract address 0x25BEC4B52866CF79Ff6F1B2852adB89Bcf453B44   
+//deployment screenshot 
 
-contract address 0x25BEC4B52866CF79Ff6F1B2852adB89Bcf453B44 
